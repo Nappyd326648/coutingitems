@@ -1,1 +1,2 @@
 # coutingitems
+This project starts in C++ get input from the user then passes that input to python. Then python reads a file. Takes the information prosses it then output it to the user. At this point none of the othe functions are working. Things that need improvement is the input vailidation, the output to the users menu need better wording, and python code is incomplete. Im finding it hade to write the the code to sort out the duplicates in python.  In c++ I can loop threw the list taking one item comparing it to the rest and remove the copies.  
